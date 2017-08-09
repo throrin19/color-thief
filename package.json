@@ -1,5 +1,5 @@
 {
-  "name": "@throrin19/color-thief",
+  "name": "@goomeo/color-thief",
   "version": "2.2.2",
   "description": "A script for grabbing the color palette from an image. Uses Javascript and the canvas tag to make it happen.",
   "main": "js/color-thief.js",
